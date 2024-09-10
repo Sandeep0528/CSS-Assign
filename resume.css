@@ -1,0 +1,25 @@
+body {
+    background-color: whitesmoke;
+    width: 21cm;
+    height: 29.7cm;
+    margin: 0 auto;
+}
+
+h1 {
+    color: black;
+}
+
+.leftpanel {
+    color: #bebebe;
+    text-decoration: none;
+}
+
+img {
+    float: right;
+}
+
+.page[size=A4] {
+    width: 21cm;
+    height: 29, 7cm;
+
+}

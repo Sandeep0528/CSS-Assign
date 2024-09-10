@@ -1,0 +1,26 @@
+div {
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+    text-align: center;
+    color: antiquewhite;
+    text-decoration: underline;
+    text-shadow: 2px 5px 6px black;
+
+
+}
+
+p {
+    color: antiquewhite;
+    float: left;
+    text-transform: uppercase;
+}
+
+h4 {
+    color: whitesmoke;
+    float: right;
+}
+
+img {
+    width: 400px;
+}
